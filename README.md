@@ -1,4 +1,4 @@
-# Hi im Mewen
+# Hi im Mewen/Scorpionem
 
 I am a student at [42 Angouleme](https://42angouleme.fr/)
 
