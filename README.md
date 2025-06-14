@@ -13,4 +13,4 @@ I am a student at [42 Angouleme](https://42angouleme.fr/)
 
 ## Contact
 
-Email: `<scorpionem.contact@gmail.com>`
+Email: `scorpionem.contact@gmail.com`
