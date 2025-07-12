@@ -6,7 +6,7 @@ I am a student at [42 Angouleme](https://42angouleme.fr/)
 
 ## Projects outside of my github:
 
-![ft_vox](https://github.com/Manualouest/ft_vox)
+Group project with mbirou : [ft_vox](https://github.com/Manualouest/ft_vox)
 
 ## Languages/Tools I use
 
