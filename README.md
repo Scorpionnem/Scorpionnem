@@ -4,10 +4,6 @@ I am a student at [42 Angouleme](https://42angouleme.fr/)
 
 [![mbatty's 42 stats](https://badge.mediaplus.ma/darkblue/mbatty?1337Badge=off&UM6P=off)](https://github.com/Scorpionnem)
 
-## Projects outside of my github:
-
-Group project with mbirou : [ft_vox](https://github.com/Manualouest/ft_vox)
-
 ## Languages/Tools I use
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
