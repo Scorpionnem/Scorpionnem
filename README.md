@@ -13,7 +13,7 @@ I am a student at [42 Angouleme](https://42angouleme.fr/)
 
 ### Languages I am learning
 
-https://img.shields.io/badge/-java-00599C
+![Java](https://img.shields.io/badge/-java-00599C)
 
 ## Contact
 
