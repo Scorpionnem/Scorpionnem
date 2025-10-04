@@ -1,6 +1,6 @@
 # Hi im Mewen/Scorpionem
 
-I am a student at [42 Angouleme](https://42angouleme.fr/)
+I am a student at [42 Angouleme](https://42angouleme.fr/) and a Minecraft Mapmaker ([mundi](https://www.mundimaps.net/) and [realms](https://atlas.minecraft.net/guidelines))
 
 [![mbatty's 42 stats](https://badge.mediaplus.ma/darkblue/mbatty?1337Badge=off&UM6P=off)](https://github.com/Scorpionnem)
 
